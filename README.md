@@ -34,6 +34,31 @@ Open the notebook in Google Colab (auto-linked):
 
 Or clone locally:
 
-```bash
+bash
 git clone https://github.com/omorros/fruit-vision-cnn.git
 cd fruit-vision-cnn
+Then run the training notebook or convert it into .py scripts.
+
+---
+
+## Future Applications
+
+This project is designed to stand alone, but it may be adapted or reused in larger systems such as:
+
+Grocery recognition apps
+
+AI-powered food management tools
+
+Personal AI experiments
+
+---
+
+## Requirements
+
+Python 3.10+
+
+TensorFlow / Keras
+
+NumPy, matplotlib, scikit-learn
+
+See notebook for full list of dependencies.
